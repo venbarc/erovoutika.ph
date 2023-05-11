@@ -1,0 +1,230 @@
+/*Home*/
+@media (max-width: 900px) {
+  .container2{
+    margin: -20% 0 0 0;
+  }
+
+}
+@media (max-width: 900px) {
+  .home .carousel .carousel_item .carousel_img{
+   width: 100%;
+   height: 270px;
+  }
+
+}
+@media (max-width: 900px) {
+  .home .carousel .carousel_inner .carousel_caption h1{
+   font-size: 27px;
+  }
+}
+@media (max-width: 900px) {
+  .home .carousel .carousel_inner .carousel_caption h5{
+   font-size: 14px;
+  }
+}
+@media (max-width: 900px) {
+  .container2{
+     padding: 0 15% 0 15%;
+  }
+
+}
+@media (max-width: 900px) {
+  .container2 .row img{
+    width: 45px;
+    height: 45px;
+  }
+
+}
+@media (max-width: 900px) {
+  .container2 .row h4{
+    font-size: 18px;
+  }
+
+}
+@media (max-width: 900px) {
+  .container2 .row h5{
+    font-size: 14px;
+  }
+
+}
+
+/*End Home*/
+
+
+/*About*/
+@media (max-width: 900px) {
+  .container-abt{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin-left: -200px;
+    margin-top: -300px;
+    margin-bottom: 65%;
+    width: 700px;
+    height: 480px;
+    background: var(--main-color);
+    border-radius: 5px;
+    font-family: "dancing script", cursive;
+    overflow: hidden;
+    color: #797d7f;
+    letter-spacing: 0.5px;
+    max-width: 100%;
+  }
+
+}
+@media (max-width: 900px) {
+  .our-about{
+      margin-bottom: 15%;
+  }
+
+}
+@media (max-width: 900px) {
+  .our-about .row .h5-mobile{
+      margin-bottom: 10%;
+  }
+
+}
+@media (max-width: 900px) {
+  .our-about .container-abt .quote{
+    width: 88%;
+    color: black;
+    font-weight: 700;
+    font-size: 12px;
+  }
+
+}
+
+/*End about*/
+
+
+
+/*Section title*/
+@media (max-width: 900px) {
+  .section-title h2{
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+  position: relative;
+  color: #222222;
+    
+  }
+
+}
+@media (max-width: 900px) {
+  .section-title2 h2{
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+  position: relative;
+  color: #222222;
+    
+  }
+
+}
+@media (max-width: 900px) {
+ .section-title h2::before,
+ .section-title h2::after{
+  content: "";
+  width: 0px;
+  height: 0px;
+
+  }
+
+}
+@media (max-width: 900px) {
+ .section-title2 h2::before,
+ .section-title2 h2::after{
+  content: "";
+  width: 0px;
+  height: 0px;
+
+  }
+
+}
+/*End Section title*/
+
+/*Awards */
+@media (max-width: 900px) {
+.awards .awards-item .awards-author {
+  padding-top: 40%;
+
+  }
+}
+
+@media (max-width: 900px) {
+ .awards .container .col-sm-6 #awards-flipster .awards-author{
+    font-size: 15px;
+
+  }
+}
+
+@media (max-width: 900px) {
+.awards {
+  margin: 0px 0 -70px 0;
+}
+}
+
+/*End Awards*/
+
+/*Clients*/
+@media (max-width: 900px) {
+.clients .container .row .col-sm-12 img{
+  width: 125px;
+  height: auto;
+}
+}
+@media (max-width: 900px) {
+.clients .container .row .col-sm-12 .client-title{
+    font-weight: 600;
+    color: #555555;
+    font-size: 20px;
+    text-align: center;
+}
+}
+
+@media (max-width: 900px) {
+.univ-logo .row .col-sm-12 .univ-title{
+    font-weight: 600;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+}
+@media (max-width: 900px) {
+ .univ-logo .row .col-sm-12 .carousel-logo .card-logo .item img {
+    width: 130px;
+    height: 130px;
+    margin-left: 100px;
+    padding-left: 0px;
+}
+}
+@media (max-width: 900px) {
+.univ-logo .row .col-sm-12 .view-all-academe h5{
+    text-align: center;
+    font-size: 15px;
+    visibility: visible;
+    background-color: white; 
+    color: darkblue;  
+    padding: 10px;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-weight: 300;
+}
+}
+@media (max-width: 900px) {
+.univ-logo .row .col-sm-12 .view-all-academe h5:hover{
+    font-size: 16px; 
+    font-weight: 400;
+}
+}
+
+/*End clients*/
+
+/*Contact Us*/
+@media (max-width: 900px) {
+.contactus .container iframe{
+   width: 390px;
+   height: 330px;
+}
+}
+/*End contcat us*/
