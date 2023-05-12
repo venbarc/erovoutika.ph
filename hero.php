@@ -1,39 +1,60 @@
 <section class="main swiper mySwiper">
   <div class="wrapper swiper-wrapper">
+    <!-- carousel 1 -->
     <div class="slide swiper-slide">
-      <img src="https://www.erovoutika.ph/assets/images/home/Thumbnail/train-banner/banner2.png" alt="" class="image" />
-      <div class="image-data">
-        <span class="text">Enjoy the finest coffee drinks.</span>
+      <img src="assets/images/portfolio/Trainings/training2.png" alt="" class="image" />
+      <div class="image-data text-sm">
         <h2>
           One-Stop-Shop
           <br />
           Innovative Solutions
         </h2>
-        <a href="#" class="button">About Us</a>
+        <span class=" text">We are team of Engineers and IT making
+          Innovative Solutions for Robotics, Automation, Electronics and ICT.</span>
+        <br />
+        <a href="#" class="button">About Us <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+            fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+            <path fill-rule="evenodd"
+              d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z" />
+          </svg></a>
+      </div>
+    </div>
+    <!-- carousel 2 -->
+    <div class="slide swiper-slide">
+      <img src="assets/images/hero_carousel/romania.webp" alt="" class="image" />
+      <div class="image-data">
+        <h2>
+          Congratulations, Team Philippines!
+        </h2>
+        <h3> Best Researcher and Free Style Categories winner!</h3>
+        <br />
+
+        <a href="#" class="button">Learn more <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+            fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+            <path fill-rule="evenodd"
+              d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z" />
+          </svg> </a>
       </div>
     </div>
     <div class="slide swiper-slide">
-      <img src="assets/images/img2.jpg" alt="" class="image" />
+      <video class="image" muted autoplay loop preload="auto">
+        <source src="path/to/your/video.mp4" type="video/mp4">
+        <source src="assets/images/hero_carousel/ROBOLUTION TEASER 2023.webm" type="video/webm">
+        <source src="path/to/your/video.ogv" type="video/ogg">
+      </video>
       <div class="image-data">
-        <span class="text">COMING SOON!</span>
-        <h2>
-          ROBOLUTION 2023
-        </h2>
-        <a href="#" class="button">Pre-registration Link</a>
+        <a href="#" class="pre_registration">Pre-registration <svg xmlns="http://www.w3.org/2000/svg" width="16"
+            height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+            <path fill-rule="evenodd"
+              d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z" />
+          </svg></a>
       </div>
     </div>
+
     <div class="slide swiper-slide">
       <img
-        src="https://scontent.fmnl4-3.fna.fbcdn.net/v/t39.30808-6/344549945_1449020285841676_8556061438168283486_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFhbp4bcWJ-w-NooF0qGKUi2yBAI47-_hjbIEAjjv7-GDlQHgNCYtDMeO7zIft8q5mXmTu8SLBfdx7E4ZgBjhgm&_nc_ohc=1F2GHkWqpLIAX87pQzS&_nc_ht=scontent.fmnl4-3.fna&oh=00_AfDKaasRDVktDUeVcaMyWzzJnbIgxlO57Ep2yjVp2JUngA&oe=6461B38F"
+        src="https://scontent.fmnl13-1.fna.fbcdn.net/v/t39.30808-6/346616961_763683621909323_1178046066163932361_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGrXdeAaJ9Pf1Fnarxxu269_l6awl9u8ir-XprCX27yKnbKvywSZOcPqG5Ubdn0Cgz_dQW3duLqgxeXIMI5hgK-&_nc_ohc=84x0Bdxt3doAX9A0dZs&_nc_ht=scontent.fmnl13-1.fna&oh=00_AfDZ87ntVX9oEm5rk7zvqUb7jSecMRIDUA_AMHAkJYF88Q&oe=6463A46D"
         alt="" class="image" />
-      <div class="image-data">
-        <!-- <span class="text">2022-2023</span>
-        <h2>
-          CONGRATULATIONS<br />
-          ECE AND ECT BOARD PASSERS
-        </h2> -->
-        <a href="#" class="button">Learn More</a>
-      </div>
     </div>
   </div>
 
