@@ -84,50 +84,6 @@
 			include "hero.php";
 			?>
 			<!-- HERO -->
-			<div class="container2">
-				<div class="row pt-5 mt-5 pb-5 mb-5">
-					<div class="col-sm-3">
-						<div class="d-flex py-3 my-3 my-lg-0 justify-content-center" data-aos="fade-down">
-							<img src="assets/images/home/happy.png" alt="satisfied-client" class="mr-3">
-							<div>
-								<h4 class="font-weight-bold mb-0" style="color: black ;"><span class="HappyC">0</span>
-								</h4>
-								<h5 class="mb-0" style="color: darkblue ; font-weight: 600;">Happy clients</h5>
-							</div>
-						</div>
-					</div>
-					<div class="col-sm-3">
-						<div class="d-flex py-3 my-3 my-lg-0 justify-content-center" data-aos="fade-up">
-							<img src="assets/images/home/project.png" alt="satisfied-client" class="mr-3">
-							<div>
-								<h4 class="font-weight-bold mb-0" style="color: black ;"><span class="projects">0</span>
-								</h4>
-								<h5 class="mb-0" style="color: darkblue; font-weight: 600;">Finished Project</h5>
-							</div>
-						</div>
-					</div>
-					<div class="col-sm-3">
-						<div class="d-flex py-3 my-3 my-lg-0 justify-content-center" data-aos="fade-down">
-							<img src="assets/images/home/award.png" alt="Team Members" class="mr-3">
-							<div>
-								<h4 class="font-weight-bold mb-0" style="color: black ;"><span class="award">0</span>
-								</h4>
-								<h5 class="mb-0" style="color: darkblue; font-weight: 600">Awards</h5>
-							</div>
-						</div>
-					</div>
-					<div class="col-sm-3">
-						<div class="d-flex py-3 my-3 my-lg-0 justify-content-center" data-aos="fade-up">
-							<img src="assets/images/home/years.png" alt="Our Blog Posts" class="mr-3">
-							<div>
-								<h4 class="font-weight-bold mb-0" style="color: black ;"><span class="year">0</span>
-								</h4>
-								<h5 class="mb-0" style="color: darkblue; font-weight: 600"> Years</h5>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
 		</section>
 
 		<section class="our-services" id="services">
@@ -423,13 +379,13 @@
 					<h3 class="font-weight-medium">Erovoutika awards <br> and Accreditation</h3>
 					<ul class="flipster-custom-nav">
 						<li class="flipster-custom-nav-item">
+							<a href="javascript:;" class="flipster-custom-nav-link active" title="2"></a>
+						</li>
+						<li class="flipster-custom-nav-item">
 							<a href="javascript:;" class="flipster-custom-nav-link" title="0"></a>
 						</li>
 						<li class="flipster-custom-nav-item">
 							<a href="javascript:;" class="flipster-custom-nav-link" title="1"></a>
-						</li>
-						<li class="flipster-custom-nav-item">
-							<a href="javascript:;" class="flipster-custom-nav-link active" title="2"></a>
 						</li>
 						<li class="flipster-custom-nav-item">
 							<a href="javascript:;" class="flipster-custom-nav-link" title="3"></a>
@@ -886,19 +842,19 @@
 				<div class="d-flex justify-content-between align-items-center">
 					<div class="d-flex align-items-center">
 						<img src="assets/images/logo/Erovoutika colored1 Logo.png" alt="logo" class="mr-3">
-						<p class="mb-0 text-small pt-1">Erovoutika <span style="font-weight: 500; ">@2022</span>. All
-							rights reserved.</p>
+
 					</div>
 					<div>
 						<div class="d-flex">
-							<!--a href="#" class="text-small text-white mx-2 footer-link">Privacy Policy </a>          
-								<a href="#" class="text-small text-white mx-2 footer-link">Terms and Conditions </a>
-								<a href="#" class="text-small text-white mx-2 footer-link">Customer Support </a-->
+							<a href="#" class="text-small text-white mx-2 footer-link">
+								<p class="mb-0 text-small pt-1">Erovoutika <span
+										style="font-weight: 500; ">@2022</span>. All
+									rights reserved.</p>
+							</a>
 						</div>
 					</div>
 				</div>
 			</div>
-		</div>
 	</footer>
 
 	<script src="assets/vendors/base/vendor.bundle.base.js"></script>
