@@ -49,18 +49,6 @@
 						<a class="nav-link" href="#home">Home <span class="sr-only">(current)</span></a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#services">Services</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#about">About</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#portfolio">Portfolio</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#awards">Awards</a>
-					</li>
-					<li class="nav-item">
 						<a class="nav-link" href="#" onclick="alert('Coming soon!')">Products</a>
 					</li>
 					<li class="nav-item">
@@ -72,6 +60,22 @@
 					<li class="nav-item">
 						<a class="nav-link" href="#contact">Contact</a>
 					</li>
+					<div class="dropdown nav-item">
+						<a id="navlink" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
+							aria-haspopup="true" aria-expanded="false">
+							Pages
+						</a>
+						<div class="dropdown-menu">
+							<a class="dropdown-item " href="#about">About</a>
+							<a class="dropdown-item " href="#awards">Awards</a>
+							<a class="dropdown-item " href="#services">Services</a>
+							<a class="dropdown-item " href="#portfolio">Portfolio</a>
+
+						</div>
+					</div>
+
+
+
 				</ul>
 			</div>
 		</div>
