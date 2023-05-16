@@ -12,7 +12,7 @@
         <span class=" text">We are team of Engineers and IT making
           Innovative Solutions for Robotics, Automation, Electronics and ICT.</span>
         <br />
-        <a href="#" class="button">About Us <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+        <a href="#about" class="button">About Us <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
             fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
             <path fill-rule="evenodd"
               d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z" />
@@ -43,8 +43,9 @@
         <source src="path/to/your/video.ogv" type="video/ogg">
       </video>
       <div class="image-data">
-        <a href="#" class="pre_registration">Pre-registration <svg xmlns="http://www.w3.org/2000/svg" width="16"
-            height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+        <a href="https://bit.ly/Pre-RegistrationRobolution" target="_blank" class="pre_registration">Pre-registration
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right"
+            viewBox="0 0 16 16">
             <path fill-rule="evenodd"
               d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z" />
           </svg></a>
@@ -52,10 +53,17 @@
     </div>
 
     <div class="slide swiper-slide">
-      <img
-        src="https://scontent.fmnl13-1.fna.fbcdn.net/v/t39.30808-6/346616961_763683621909323_1178046066163932361_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGrXdeAaJ9Pf1Fnarxxu269_l6awl9u8ir-XprCX27yKnbKvywSZOcPqG5Ubdn0Cgz_dQW3duLqgxeXIMI5hgK-&_nc_ohc=84x0Bdxt3doAX9A0dZs&_nc_ht=scontent.fmnl13-1.fna&oh=00_AfDZ87ntVX9oEm5rk7zvqUb7jSecMRIDUA_AMHAkJYF88Q&oe=6463A46D"
-        alt="" class="image" />
+      <img src="assets/images/hero_carousel/congrats.webp" alt="" class="image" />
+      <div class="image-data">
+        <a href="https://bit.ly/Pre-RegistrationRobolution" target="_blank" class="pre_registration">Read More
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right"
+            viewBox="0 0 16 16">
+            <path fill-rule="evenodd"
+              d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z" />
+          </svg></a>
+      </div>
     </div>
+
   </div>
 
   <div class="swiper-button-next nav-btn"></div>
