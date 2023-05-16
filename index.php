@@ -35,7 +35,7 @@
 					<div class="col-sm-4 text-center text-lg-left">
 						<div class="services-box" data-aos="fade-down" data-aos-easing="linear"
 							data-aos-duration="1500">
-							<img src="assets/images/services/train-cert.png" alt="integrated-marketing"
+							<img src="assets/images/services/train-cert.webp" alt="integrated-marketing"
 								data-aos="zoom-in">
 							<h6 class="text-dark mb-3 mt-4 font-weight-medium">Training and Certifications
 							</h6>
@@ -51,7 +51,7 @@
 					<div class="col-sm-4 text-center text-lg-left">
 						<div class="services-box" data-aos="fade-down" data-aos-easing="linear"
 							data-aos-duration="1500">
-							<img src="assets/images/services/auto-solution.png" alt="design-development"
+							<img src="assets/images/services/auto-solution.webp" alt="design-development"
 								data-aos="zoom-in">
 							<h6 class="text-dark mb-3 mt-4 font-weight-medium">Automation Solutions
 							</h6>
@@ -65,7 +65,7 @@
 					<div class="col-sm-4 text-center text-lg-left">
 						<div class="services-box" data-aos="fade-down" data-aos-easing="linear"
 							data-aos-duration="1500">
-							<img src="assets/images/services/robotic.png" alt="digital-strategy" data-aos="zoom-in">
+							<img src="assets/images/services/robotic.webp" alt="digital-strategy" data-aos="zoom-in">
 							<h6 class="text-dark mb-3 mt-4 font-weight-medium">Robotics
 							</h6>
 							<p>
@@ -80,7 +80,7 @@
 					<div class="col-sm-4 text-center text-lg-left">
 						<div class="services-box  pb-lg-0" data-aos="fade-down" data-aos-easing="linear"
 							data-aos-duration="1500">
-							<img src="assets/images/services/research-dev.png" alt="digital-marketing"
+							<img src="assets/images/services/research-dev.webp" alt="digital-marketing"
 								data-aos="zoom-in">
 							<h6 class="text-dark mb-3 mt-4 font-weight-medium">Research and Development
 							</h6>
@@ -94,7 +94,7 @@
 					<div class="col-sm-4 text-center text-lg-left">
 						<div class="services-box pb-lg-0" data-aos="fade-down" data-aos-easing="linear"
 							data-aos-duration="1500">
-							<img src="assets/images/services/cyber-sec.png" alt="growth-strategy" data-aos="zoom-in">
+							<img src="assets/images/services/cyber-sec.webp" alt="growth-strategy" data-aos="zoom-in">
 							<h6 class="text-dark mb-3 mt-4 font-weight-medium">Cybersecurity
 							</h6>
 							<p>
@@ -107,7 +107,7 @@
 					<div class="col-sm-4 text-center text-lg-left">
 						<div class="services-box pb-0" data-aos="fade-down" data-aos-easing="linear"
 							data-aos-duration="1500">
-							<img src="assets/images/services/blockchain.png" alt="saving-strategy" data-aos="zoom-in">
+							<img src="assets/images/services/blockchain.webp" alt="saving-strategy" data-aos="zoom-in">
 							<h6 class="text-dark mb-3 mt-4 font-weight-medium">Blockchain
 							</h6>
 							<p>
@@ -261,47 +261,44 @@
 
 				<div class="carousel-portfolio owl-carousel">
 					<div class="item">
-						<img src="assets/images/portfolio/Tempo/auto-2.jpg" alt="slider">
+						<img src="assets/images/porfolio/Tempo/auto-2.webp" alt="slider">
 					</div>
 					<div class="item">
-						<img src="assets/images/portfolio/Tempo/auto-3.jpg" alt="slider">
+						<img src="assets/images/porfolio/Tempo/auto-3.webp" alt="slider">
 					</div>
 					<div class="item">
-						<img src="assets/images/portfolio/Tempo/auto-4.jpg" alt="slider">
+						<img src="assets/images/porfolio/Tempo/auto-4.webp" alt="slider">
 					</div>
 					<div class="item">
-						<img src="assets/images/portfolio/Tempo/auto-5.jpg" alt="slider">
+						<img src="assets/images/porfolio/Tempo/auto-5.webp" alt="slider">
 					</div>
 					<div class="item">
-						<img src="assets/images/portfolio/robotics/robotic1.png" alt="slider">
+						<img src="assets/images/porfolio/robotics/robotic1.webp" alt="slider">
 					</div>
 					<div class="item">
-						<img src="assets/images/portfolio/robotics/robotic2.png" alt="slider">
+						<img src="assets/images/porfolio/robotics/robotic2.webp" alt="slider">
 					</div>
 					<div class="item">
-						<img src="assets/images/portfolio/robotics/robotic3.png" alt="slider">
+						<img src="assets/images/porfolio/robotics/robotic3.webp" alt="slider">
 					</div>
 					<div class="item">
-						<img src="assets/images/portfolio/robotics/robotic4.png" alt="slider">
+						<img src="assets/images/porfolio/robotics/robotic4.webp" alt="slider">
 					</div>
 					<div class="item">
-						<img src="assets/images/portfolio/robotics/robotic5.png" alt="slider">
+						<img src="assets/images/porfolio/robotics/robotic5.webp" alt="slider">
 					</div>
 					<div class="item">
-						<img src="assets/images/portfolio/robotics/robotic6.png" alt="slider">
+						<img src="assets/images/porfolio/robotics/robotic6.webp" alt="slider">
 					</div>
 					<div class="item">
-						<img src="assets/images/portfolio/Trainings/training1.png" alt="slider">
+						<img src="assets/images/porfolio/Trainings/training1.webp" alt="slider">
 					</div>
 					<div class="item">
-						<img src="assets/images/portfolio/Trainings/training2.png" alt="slider">
+						<img src="assets/images/porfolio/Trainings/training2.webp" alt="slider">
 					</div>
 					<div class="item">
-						<img src="assets/images/portfolio/Trainings/training3.png" alt="slider">
+						<img src="assets/images/porfolio/Trainings/training3.webp" alt="slider">
 					</div>
-					<!--div class="item">
-								<img src="assets/images/portfolio/Trainings/training4.png" alt="slider">
-							</div-->
 				</div>
 
 
@@ -338,14 +335,14 @@
 						<ul>
 							<li>
 								<div class="awards-item">
-									<img src="assets/images/awards/award1.png" alt="icon" class="awards-icons">
+									<img src="assets/images/awards/award1.webp" alt="icon" class="awards-icons">
 									<h6 class="awards-author"> <br><br>
 										PESMS Best Choice Awardee 2020-2021</h6>
 								</div>
 							</li>
 							<li>
 								<div class="awards-item">
-									<img src="assets/images/awards/award2.png" alt="icon" class="awards-icons">
+									<img src="assets/images/awards/award2.webp" alt="icon" class="awards-icons">
 									<h6 class="awards-author"> <br><br>
 										CompTIA Authorized Partner</h6>
 
@@ -353,7 +350,7 @@
 							</li>
 							<li>
 								<div class="awards-item">
-									<img src="assets/images/awards/award3.png" alt="icon" class="awards-icons">
+									<img src="assets/images/awards/award3.webp" alt="icon" class="awards-icons">
 									<h6 class="awards-author">Best Automation and Robotics Control Systems and Training
 										Programs Provider
 										Q Asia’s Quality Excellence Awardee 2020-2021</h6>
@@ -361,14 +358,14 @@
 							</li>
 							<li>
 								<div class="awards-item">
-									<img src="assets/images/awards/award4.png" alt="icon" class="awards-icons">
+									<img src="assets/images/awards/award4.webp" alt="icon" class="awards-icons">
 									<h6 class="awards-author"> <br><br>
 										CPD PROVIDER ACCREDITATION NO. ECE - 2022-014</h6>
 								</div>
 							</li>
 							<li>
 								<div class="awards-item">
-									<img src="assets/images/awards/award5.png" alt="icon" class="awards-icons">
+									<img src="assets/images/awards/award5.webp" alt="icon" class="awards-icons">
 									<h6 class="awards-author"> <br>
 										Philippine Social Media Awards Electronics and Robotics Company Star Brand
 										Awardee 2020</h6>
@@ -387,17 +384,17 @@
 					<h3 class="client-title">INDUSTRY PARTNERS</h3>
 
 					<div class="d-sm-flex justify-content-between align-items-center">
-						<img src="assets/images/clients/client-1.png" alt="" class="p-2 p-lg-0" data-aos="fade-down"
+						<img src="assets/images/clients/client-1.webp" alt="" class="p-2 p-lg-0" data-aos="fade-down"
 							data-aos-offset="-800">
-						<img src="assets/images/clients/client-2.png" alt="" class="p-2 p-lg-0" data-aos="fade-up"
+						<img src="assets/images/clients/client-2.webp" alt="" class="p-2 p-lg-0" data-aos="fade-up"
 							data-aos-offset="-800">
-						<img src="assets/images/clients/client-3.png" alt="" class="p-2 p-lg-0" data-aos="fade-down"
+						<img src="assets/images/clients/client-3.webp" alt="" class="p-2 p-lg-0" data-aos="fade-down"
 							data-aos-offset="-800">
-						<img src="assets/images/clients/client-4.png" alt="" class="p-2 p-lg-0" data-aos="fade-up"
+						<img src="assets/images/clients/client-4.webp" alt="" class="p-2 p-lg-0" data-aos="fade-up"
 							data-aos-offset="-800">
-						<img src="assets/images/clients/client-5.png" alt="" class="p-2 p-lg-0" data-aos="fade-down"
+						<img src="assets/images/clients/client-5.webp" alt="" class="p-2 p-lg-0" data-aos="fade-down"
 							data-aos-offset="-800">
-						<img src="assets/images/clients/client-6.png" alt="" class="p-2 p-lg-0" data-aos="fade-down"
+						<img src="assets/images/clients/client-6.webp" alt="" class="p-2 p-lg-0" data-aos="fade-down"
 							data-aos-offset="-800">
 					</div>
 				</div>
@@ -412,242 +409,242 @@
 				<div class="carousel-logo owl-carousel">
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo1.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo1.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo2.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo2.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo3.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo3.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo4.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo4.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo5.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo5.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo6.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo6.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo7.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo7.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo8.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo8.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo9.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo9.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo10.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo10.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo11.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo11.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo12.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo12.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo13.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo13.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo14.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo14.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo15.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo15.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo16.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo16.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo17.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo17.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo18.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo18.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo19.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo19.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo20.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo20.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo21.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo21.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo22.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo22.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo23.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo23.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo24.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo24.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo25.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo25.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo26.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo26.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo27.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo27.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo28.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo28.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo29.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo29.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo30.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo30.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo31.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo31.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo32.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo32.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo33.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo33.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo34.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo34.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo35.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo35.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo36.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo36.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo37.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo37.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo38.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo38.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo39.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo39.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo40.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo40.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo41.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo41.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo42.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo42.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo43.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo43.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo44.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo44.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo45.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo45.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo46.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo46.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo47.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo47.webp" alt="slider">
 						</div>
 					</div>
 					<div class="card-logo">
 						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo48.png" alt="slider">
+							<img src="assets/images/logo/universities-logo/univ-logo48.webp" alt="slider">
 						</div>
 					</div>
 				</div>
@@ -657,7 +654,7 @@
 								<label for="toggle">View All</label>
 								<dialog>
 									<label for="toggle">close</label>
-										<img src="assets/images/logo/SAMPLEIMG-LOGO.png" alt="">
+										<img src="assets/images/logo/SAMPLEIMG-LOGO.webp" alt="">
 								</dialog>
 							</div-->
 

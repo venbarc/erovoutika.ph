@@ -1,4 +1,4 @@
-<div id="news" data-aos="zoom-in-down" class="wrapper">
+<div id="news" class="wrapper">
     <section>
         <h2 class="news_header">News and Updates</h2>
         <div class="hero-news hero-news1">

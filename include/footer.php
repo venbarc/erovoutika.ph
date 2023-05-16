@@ -11,7 +11,7 @@
                         <div class="d-flex align-items-center">
                             <p>074 423 1557</p>
                         </div>
-                        <img src="assets/images/footer/ero-qr.png" alt="" style="height: 200px; width: 200px;">
+                        <img src="assets/images/footer/ero-qr.webp" alt="" style="height: 200px; width: 200px;">
                     </address>
                 </div>
                 <div class="col-sm-4">
@@ -66,7 +66,7 @@
         <div class="container">
             <div class="d-flex justify-content-between align-items-center">
                 <div class="d-flex align-items-center">
-                    <img src="assets/images/logo/Erovoutika colored1 Logo.png" alt="logo" class="mr-3">
+                    <img src="assets/images/logo/Erovoutika colored1 Logo.webp" alt="logo" class="mr-3">
 
                 </div>
                 <div>

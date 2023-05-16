@@ -2,7 +2,7 @@
   <div class="wrapper swiper-wrapper">
     <!-- carousel 1 -->
     <div class="slide swiper-slide">
-      <img src="assets/images/portfolio/Trainings/training2.png" alt="" class="image" />
+      <img src="assets/images/porfolio/Trainings/training2.webp" alt="" class="image" />
       <div class="image-data text-sm">
         <h2>
           One-Stop-Shop
