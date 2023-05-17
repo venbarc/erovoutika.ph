@@ -26,7 +26,7 @@
         <h2>
           Congratulations, Team Philippines!
         </h2>
-        <h3> Best Researcher and Free Style Categories winner!</h3>
+        <h3> Best Researcher </h3>
         <br />
 
         <a href="#" class="button">Learn more <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"

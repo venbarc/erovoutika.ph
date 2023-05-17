@@ -31,20 +31,18 @@
                     <a class="nav-link" href="#contact">Contact</a>
                 </li>
                 <div class="dropdown nav-item">
-                    <a id="navlink" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
+                    <a id="nav_link" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
                         aria-haspopup="true" aria-expanded="false">
-                        Pages
+                        About
                     </a>
                     <div class="dropdown-menu">
-                        <a class="dropdown-item " href="#about">About</a>
+                        <a class="dropdown-item " href="#about">About Erovoutika</a>
                         <a class="dropdown-item " href="#awards">Awards</a>
                         <a class="dropdown-item " href="#services">Services</a>
                         <a class="dropdown-item " href="#portfolio">Portfolio</a>
 
                     </div>
                 </div>
-
-
 
             </ul>
         </div>

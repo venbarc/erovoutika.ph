@@ -10,7 +10,7 @@ include "include/navbar.php";
 ?>
 <main class="responsive-wrapper">
 	<div class="page-title">
-		<h1>Erovoutika Latest News & Updates</h1>
+		<h1>Robotics Championship International</h1>
 	</div>
 	<div class="magazine-layout">
 		<div class="magazine-column">
@@ -28,7 +28,7 @@ include "include/navbar.php";
 					</p>
 				</div>
 				<figure class="article-img">
-					<img src="assets/images/hero_carousel/romania.webp" />
+					<img src="assets/images/hero_carousel/Untitled design.webp" />
 				</figure>
 			</article>
 		</div>
@@ -51,15 +51,27 @@ include "include/navbar.php";
 				</div>
 			</article>
 			<hr class="article">
+			<div
+				style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;">
+				<iframe loading="lazy"
+					style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;"
+					src="https://www.canva.com/design/DAFhp5Zsth4/watch?embed&autoplay=1"
+					allowfullscreen="allowfullscreen" allow="fullscreen">
+				</iframe>
+			</div>
+			<div class="pb-5">
+				<a href="https://www.canva.com/design/DAFhp5Zsth4/watch?utm_content=DAFhp5Zsth4&utm_campaign=designshare&utm_medium=embeds&utm_source=link"
+					target="_blank" rel="noopener">Romania Oradea</a> by erovoutika erovoutika
+			</div>
 		</div>
 		<div class="magazine-column">
 			<article class="article">
 				<figure class="article-img">
-					<img src="assets/images/hero_carousel/Untitled design.webp" />
+					<img src="assets/images/hero_carousel/romania.webp" />
 				</figure>
 				<h2 class="article-title article-title--small">
-					<a href="#" class="article-link">1st Place in the BEST
-						RESEARCHER
+					<a href="#" class="article-link">1st Place in the "BEST
+						RESEARCHER"
 						category.</a>
 				</h2>
 				<div class="article-creditation">
@@ -76,18 +88,37 @@ include "include/navbar.php";
 		<div class="magazine-column">
 			<article class="article">
 				<h2 class="article-title article-title--medium">
-					<a href="#" class="article-link">Traveller Visiting Ice Cave With Amazing Eye-Catching
-						Scenes</a>
+					<a href="#" class="article-link">The University of Oradea hosted the Robotics Championship
+						International</a>
 				</h2>
 				<div class="article-excerpt">
-					<p>Slack has become indispensible for many businesses operation remotely during the pandemic.
-						Here's
-						what the acquisition could mean for users...</p>
+					<p>which was attended by 11 countries from around the world, including Belarus, Greece, Romania,
+						Philippines, Egypt, Poland, Turkey, Hungary, Algeria, Lithuania, and Lebanon last April 20-22,
+						2023, at Oradea Romania...</p>
 				</div>
+				<figure class="article-img">
+					<img src="https://www.uoradea.ro/styles/www_uoradea_ro/uo-lightgrey/1.jpg" />
+				</figure>
 			</article>
 			<article class="article">
-
+				<div class="hero-news hero-news1">
+					<article class="hero-news__item">
+						<h3 class="hero-news__item-title">Congratulations to our former engineering interns (89 total
+							passers)
+						</h3>
+						<div class="hero-news__item-date">March 24, 2017</div>
+						<div id="contact-btn" class="text-start"><button type="submit">Read More</button>
+					</article>
+					<article class="hero-news__item">
+						<h3 class="hero-news__item-title">ROBOLUTION 2023 - 2nd Edition. SOON!</h3>
+						<div id="contact-btn" class="text-start"><button type="submit">Read More</button>
+					</article>
+				</div>
 			</article>
 		</div>
 	</div>
 </main>
+<?php
+include "include/footer.php";
+include "include/footer_link.php";
+?>
