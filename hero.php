@@ -29,7 +29,7 @@
         <h3> Best Researcher </h3>
         <br />
 
-        <a href="#" class="button">Learn more <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+        <a href="readmore.php" target="_blank" class="button">Learn more <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
             fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
             <path fill-rule="evenodd"
               d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z" />
@@ -55,7 +55,7 @@
     <div class="slide swiper-slide">
       <img src="assets/images/hero_carousel/congrats.webp" alt="" class="image" />
       <div class="image-data">
-        <a href="https://bit.ly/Pre-RegistrationRobolution" target="_blank" class="pre_registration">Read More
+        <a href="https://www.facebook.com/erovoutika/posts/pfbid02wMB6Mt8fwrBzLeQ92XqgHt5XNr7roh6rPhAaFbitmMKrnNaJiXKkj3T4J3cSU99El" target="_blank" class="pre_registration">Read More
           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right"
             viewBox="0 0 16 16">
             <path fill-rule="evenodd"
