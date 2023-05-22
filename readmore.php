@@ -1,8 +1,26 @@
 <head>
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<link rel="stylesheet" href="style.scss">
-	<title></title>
+	<link rel="stylesheet" href="assets/css/style.scss">
+	<title>News and Update | Erovoutika</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description"
+		content="Erovoutika is a leading provider of innovative robotics and automation solutions for businesses worldwide. Our expert team of engineers and designers create custom automation systems to help companies streamline their operations and improve efficiency.">
+	<meta name="keywords"
+		content="Erovoutika, Robotics, Automation, Solutions, Engineering, Design, Custom, Streamline, Efficiency">
+	<meta name="author" content="Erovoutika Robotics and Automation Solutions">
+	<meta name="robots" content="index, follow">
+	<meta property="og:title"
+		content="Erovoutika Robotics and Automation  Solutions -One-Stop-Shop For Innovative  Solutions">
+	<meta property="og:description"
+		content="Erovoutika is a leading provider of innovative robotics and automation solutions for businesses worldwide. Our expert team of engineers and designers create custom automation systems to help companies streamline their operations and improve efficiency.">
+	<meta property="og:url" content="https://www.erovoutika.ph/">
+	<meta property="og:type" content="website">
+	<link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicon_io/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon_io/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon_io/favicon-16x16.png">
+	<link rel="manifest" href="/assets/images/favicon_io/site.webmanifest">
 </head>
 <?php
 include "include/header_link.php";
@@ -35,7 +53,7 @@ include "include/navbar.php";
 		<div class="magazine-column">
 			<article class="article">
 				<figure class="article-img">
-					<img src="assets/images/hero_carousel/FOR EROVOUTIKA.PH WEBSITE.webp" />
+					<img src="assets/images/hero_carousel/ero.webp" />
 				</figure>
 				<h4 class="article-title article-title--medium">
 					<a href="#" class="article-link">Team Philippines from ERovoutika Electronics Robotics
