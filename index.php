@@ -5,6 +5,22 @@
 	<!-- Required meta tags -->
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description"
+		content="Erovoutika is a leading provider of innovative robotics and automation solutions for businesses worldwide. Our expert team of engineers and designers create custom automation systems to help companies streamline their operations and improve efficiency.">
+	<meta name="keywords"
+		content="Erovoutika, Robotics, Automation, Solutions, Engineering, Design, Custom, Streamline, Efficiency">
+	<meta name="author" content="Erovoutika Robotics and Automation Solutions">
+	<meta name="robots" content="index, follow">
+	<meta property="og:title"
+		content="Erovoutika Robotics and Automation  Solutions -One-Stop-Shop For Innovative  Solutions">
+	<meta property="og:description"
+		content="Erovoutika is a leading provider of innovative robotics and automation solutions for businesses worldwide. Our expert team of engineers and designers create custom automation systems to help companies streamline their operations and improve efficiency.">
+	<meta property="og:url" content="https://www.erovoutika.ph/">
+	<meta property="og:type" content="website">
+	<link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicon_io/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon_io/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon_io/favicon-16x16.png">
+	<link rel="manifest" href="/assets/images/favicon_io/site.webmanifest">
 	<title>Erovoutika | Home</title>
 	<?php
 	include "include/header_link.php";
@@ -12,6 +28,37 @@
 </head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="50">
+	<!-- Messenger Chat Plugin Code -->
+	<div id="fb-root"></div>
+
+	<!-- Your Chat Plugin code -->
+	<div id="fb-customer-chat" class="fb-customerchat">
+	</div>
+
+	<script>
+		var chatbox = document.getElementById('fb-customer-chat');
+		chatbox.setAttribute("page_id", "1284502898320071");
+		chatbox.setAttribute("attribution", "biz_inbox");
+	</script>
+
+	<!-- Your SDK code -->
+	<script>
+		window.fbAsyncInit = function () {
+			FB.init({
+				xfbml: true,
+				version: 'v16.0'
+			});
+		};
+
+		(function (d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+
 
 	<div class="page-body-wrapper">
 		<section id="home" class="home">

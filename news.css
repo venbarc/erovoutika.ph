@@ -27,7 +27,7 @@
   }
   
   .hero-news__item:first-child {
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(assets/images/hero_carousel/FOR\ EROVOUTIKA.PH\ WEBSITE.webp);
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(assets/images/hero_carousel/ero.webp);
   }
   
   .hero-news__item:nth-child(2) {
