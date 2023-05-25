@@ -6,7 +6,7 @@
                 <h3 class="hero-news__item-title_team">Team Philippines from ERovoutika Electronics Robotics Automation
                     went
                     to Oradea, Romania for Robotics Championship International Competition. </h3>
-                <div class="hero-news__item-date">April 20-22, 2013</div>
+                <div class="hero-news__item-date">April 20-22, 2023</div>
                 <a href="readmore.php" target="_blank">
                     <div id="contact-btn" class="text-start"><button type="submit">Read More</button>
                 </a>
@@ -14,7 +14,7 @@
             <article class="hero-news__item">
                 <h3 class="hero-news__item-title">Congratulations to our former engineering interns (89 total passers)
                 </h3>
-                <div class="hero-news__item-date">March 24, 2017</div>
+                <div class="hero-news__item-date">May 06, 2023</div>
                 <a target="_blank"
                     href="https://www.facebook.com/erovoutika/posts/pfbid02wMB6Mt8fwrBzLeQ92XqgHt5XNr7roh6rPhAaFbitmMKrnNaJiXKkj3T4J3cSU99El">
                     <div id="contact-btn" class="text-start"><button type="submit">Read More</button>
