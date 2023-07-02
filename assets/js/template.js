@@ -76,11 +76,121 @@
 			}
 		});
 
+		// counter Satisfied clients
+		var maxScVal = 897;
+		var isc = parseInt($('.HappyC').text());
+		var tim;
+		function run() {
+			tim = setInterval(function() {
+				if (isc >= maxScVal) {
+					clearInterval(tim);
+					return;
+				}
+				$('.HappyC').text(++isc);
+			}, 100);
+		}
+		run();
+		//End
+
+		// counter portfolio
+		var projects = 45;
+		var isc1 = parseInt($('.projects').text());
+		var tim1;
+		function run1() {
+			tim1 = setInterval(function() {
+				if (isc >= projects) {
+					clearInterval(tim1);
+					return;
+				}
+				$('.projects').text(++isc1);
+			}, 100);
+		}
+		run1();
+		//End
+
+		//Counter Awards
+		var award = 5;
+		var isc2 = parseInt($('.award').text());
+		var tim2;
+		function run2() {
+			tim1 = setInterval(function() {
+				if (isc >= award) {
+					clearInterval(tim2);
+					return;
+				}
+				$('.award').text(++isc2);
+			}, 100);
+		}
+		run2();
+		//End
+
+		//Counter Years
+		var year = 4;
+		var isc3 = parseInt($('.year').text());
+		var tim3;
+		function run3() {
+			tim3 = setInterval(function() {
+				if (isc >= year) {
+					clearInterval(tim3);
+					return;
+				}
+				$('.year').text(++isc3);
+			}, 100);
+		}
+		run3();
+		//End
+
 
 
 	});
 })(jQuery);
 
+
+/*Home Carousel*/
+window.addEventListener("load", () => {
+   autoSlide();
+})
+
+function autoSlide() {
+   setInterval(() => {
+      slide(getItemActiveIndex() + 1);
+   }, 4000); // slide speed = 4s
+}
+
+function slide(toIndex) {
+   const itemsArray = Array.from(document.querySelectorAll(".carousel_item"));
+   const itemActive = document.querySelector(".carousel_item__active");
+
+   // check if toIndex exceeds the number of carousel items
+   if (toIndex >= itemsArray.length) {
+      toIndex = 0;
+   }
+
+   const newItemActive = itemsArray[toIndex];
+
+   // start transition
+   newItemActive.classList.add("carousel_item__pos_next");
+   setTimeout(() => {
+      newItemActive.classList.add("carousel_item__next");
+      itemActive.classList.add("carousel_item__next");
+   },20);
+
+   // remove all transition class and switch active class
+   newItemActive.addEventListener("transitionend", () => {
+      itemActive.className = "carousel_item";
+      newItemActive.className = "carousel_item carousel_item__active";
+   }, {
+      once: true
+   });
+}
+
+function getItemActiveIndex() {
+   const itemsArray = Array.from(document.querySelectorAll(".carousel_item"));
+   const itemActive = document.querySelector(".carousel_item__active");
+   const itemActiveIndex = itemsArray.indexOf(itemActive);
+   return itemActiveIndex;
+}
+/*End */
 
 
 // Logo Carousel

@@ -7,7 +7,7 @@
                     went
                     to Oradea, Romania for Robotics Championship International Competition. </h3>
                 <div class="hero-news__item-date">April 20-22, 2023</div>
-                <a href="readmore.php" target="_blank">
+                <a href="readmore.php?type=orDea" target="_blank">
                     <div id="contact-btn" class="text-start"><button type="submit">Read More</button>
                 </a>
             </article>

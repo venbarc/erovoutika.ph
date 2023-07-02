@@ -69,6 +69,50 @@
 			include "hero.php";
 			?>
 			<!-- HERO -->
+			<div class="container2">
+				<div class="row pt-5 mt-5 pb-5 mb-5">
+					<div class="col-sm-3">
+						<div class="d-flex py-3 my-3 my-lg-0 justify-content-center" data-aos="fade-down">
+							<img src="assets/images/home/happy.webp" alt="satisfied-client" class="mr-3">
+							<div>
+								<h4 class="font-weight-bold mb-0" style="color: black ;"><span class="HappyC">0</span>
+								</h4>
+								<h5 class="mb-0" style="color: darkblue ; font-weight: 600;">Happy clients</h5>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-3">
+						<div class="d-flex py-3 my-3 my-lg-0 justify-content-center" data-aos="fade-up">
+							<img src="assets/images/home/project.webp" alt="satisfied-client" class="mr-3">
+							<div>
+								<h4 class="font-weight-bold mb-0" style="color: black ;"><span class="projects">0</span>
+								</h4>
+								<h5 class="mb-0" style="color: darkblue; font-weight: 600;">Finished Project</h5>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-3">
+						<div class="d-flex py-3 my-3 my-lg-0 justify-content-center" data-aos="fade-down">
+							<img src="assets/images/home/award.webp" alt="Team Members" class="mr-3">
+							<div>
+								<h4 class="font-weight-bold mb-0" style="color: black ;"><span class="award">0</span>
+								</h4>
+								<h5 class="mb-0" style="color: darkblue; font-weight: 600">Awards</h5>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-3">
+						<div class="d-flex py-3 my-3 my-lg-0 justify-content-center" data-aos="fade-up">
+							<img src="assets/images/home/years.webp" alt="Our Blog Posts" class="mr-3">
+							<div>
+								<h4 class="font-weight-bold mb-0" style="color: black ;"><span class="year">0</span>
+								</h4>
+								<h5 class="mb-0" style="color: darkblue; font-weight: 600"> Years</h5>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 		</section>
 
 		<section class="our-services" id="services">
@@ -452,265 +496,459 @@
 		<div class="row" data-aos="fade-up" data-aos-offset="-500">
 			<div class="col-sm-12">
 				<h3 class="univ-title">ACADEME PARTNERS</h3>
+				<ul class="soc">
+					<li>
+						<a class="icon-1 8tracks" href="#" title="8tracks">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo10.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-2 500px" href="#" title="500px">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo3.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-3 behance" href="#" title="Behance">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo38.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-4 codepen" href="#" title="CodePen">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo1.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-5 delicious" href="#" title="Delicious">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo2.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-6 deviantart" href="#" title="DeviantART">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo4.webp" width="512"
+									height="512">
 
-				<div class="carousel-logo owl-carousel">
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo1.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo2.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo3.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo4.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo5.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo6.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo7.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo8.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo9.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo10.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo11.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo12.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo13.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo14.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo15.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo16.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo17.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo18.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo19.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo20.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo21.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo22.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo23.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo24.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo25.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo26.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo27.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo28.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo29.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo30.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo31.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo32.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo33.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo34.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo35.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo36.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo37.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo38.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo39.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo40.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo41.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo42.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo43.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo44.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo45.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo46.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo47.webp" alt="slider">
-						</div>
-					</div>
-					<div class="card-logo">
-						<div class="item">
-							<img src="assets/images/logo/universities-logo/univ-logo48.webp" alt="slider">
-						</div>
-					</div>
-				</div>
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-7 dribbble" href="#" title="Dribbble">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo5.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-8 email" href="#" title="Email">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo6.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-9 etsy" href="#" title="Etsy">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo7.webp" width="512"
+									height="512">
 
-				<!--div class="container-modal">
-								<input type="checkbox" id="toggle">
-								<label for="toggle">View All</label>
-								<dialog>
-									<label for="toggle">close</label>
-										<img src="assets/images/logo/SAMPLEIMG-LOGO.webp" alt="">
-								</dialog>
-							</div-->
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-10 facebook" href="#" title="Facebook">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo8.webp" width="512"
+									height="512">
 
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-11 flickr" href="#" title="Flickr">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo9.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-12 forrst" href="#" title="Forrst">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo11.webp" width="512"
+									height="512">
+
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-13 github" href="#" title="GitHub">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo12.webp" width="512"
+									height="512">
+
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-14 keybase" href="#" title="Keybase">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo13.webp" width="512"
+									height="512">
+
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-15 instagram" href="#" title="Instagram">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo14.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-16 lastfm" href="#" title="Last.fm">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo15.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-17 linkedin" href="#" title="LinkedIn">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo16.webp" width="512"
+									height="512">
+
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-18 reddit" href="#" title="reddit">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo17.webp" width="512"
+									height="512">
+
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-19 paypal" href="#" title="PayPal">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo18.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-20 pinterest" href="#" title="Pinterest">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo19.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-21 rss" href="#" title="RSS">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo20.webp" width="512"
+									height="512">
+
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-22 soundcloud" href="#" title="SoundCloud">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo21.webp" width="512"
+									height="512">
+
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-23 stackoverflow" href="#" title="StackOverflow">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo22.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-24 stumbleupon" href="#" title="StumbleUpon">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo23.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-25 tumblr" href="#" title="Tumblr">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo24.webp" width="512"
+									height="512">
+
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-26 twitter" href="#" title="Twitter">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo25.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-27 vimeo" href="#" title="Vimeo">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo26.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-28 youtube" href="#" title="YouTube">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo27.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-29 yelp" href="#" title="Yelp">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo28.webp" width="512"
+									height="512">
+
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-30 foursquare" href="#" title="Foursquare">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo29.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-31 blogger" href="#" title="Blogger">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo30.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-32 spotify" href="#" title="Spotify">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo31.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-32 spotify" href="#" title="Spotify">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo32.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-32 spotify" href="#" title="Spotify">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo33.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-32 spotify" href="#" title="Spotify">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo34.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-32 spotify" href="#" title="Spotify">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo35.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-32 spotify" href="#" title="Spotify">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo36.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-32 spotify" href="#" title="Spotify">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo37.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-32 spotify" href="#" title="Spotify">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo39.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-32 spotify" href="#" title="Spotify">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo40.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-32 spotify" href="#" title="Spotify">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo41.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-32 spotify" href="#" title="Spotify">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo42.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-32 spotify" href="#" title="Spotify">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo43.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-32 spotify" href="#" title="Spotify">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo44.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-32 spotify" href="#" title="Spotify">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo45.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-32 spotify" href="#" title="Spotify">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo46.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-32 spotify" href="#" title="Spotify">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo47.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a class="icon-32 spotify" href="#" title="Spotify">
+							<div class="ir">
+								<img src="assets/images/logo/universities-logo/univ-logo48.webp" width="512"
+									height="512">
+								</img>
+							</div>
+						</a>
+					</li>
+
+				</ul>
 			</div>
 		</div>
 	</section>
 	<!-- HERO -->
 	<?php
-	include "news.php";
+	include "include/news.php";
 	?>
 	<!-- HERO -->
 
